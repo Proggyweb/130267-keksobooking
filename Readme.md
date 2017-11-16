@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Иван Константинов](https://up.htmlacademy.ru/javascript/11/user/130267).
-* Наставник: [Никита Ткачук](https://htmlacademy.ru/profile/id450211).
+* Наставник: [Никита Ткачук](https://htmlacademy.ru/profile/id450211)..
 
 ---
 
